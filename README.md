@@ -5,7 +5,7 @@
  ###### via Gradle: 
 
 ```Gradle
-   implementation 'com.zarinpal:bottomsheet:0.0.5'
+   implementation 'com.zarinpal:bottomsheet:0.0.7'
 ```
 ###### or Maven:
  ```Maven
